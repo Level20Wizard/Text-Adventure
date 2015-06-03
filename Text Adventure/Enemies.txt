@@ -1,0 +1,65 @@
+#0
+name:   Wolf
+hp:     20
+damage: 7
+loot(
+	Wolf Eye*2
+	Wolf Hide
+)
+
+#1
+name:   Living Lemon
+hp:     3
+damage: 1
+loot(
+	Lemon
+	Gold*1..12
+)
+
+#2
+name:   Drop Bear
+hp:     10
+damage: 20
+loot(
+	50%
+	Sheldon's Cloak
+)
+
+#3
+name:   Garfool, Lord of Tricks
+hp:     175
+damage: 40
+loot(
+	Gold*50..70
+	Spooky Scythe
+	20%
+	Ironic Sword
+)
+
+#4
+name: Lord of the Dies
+hp: 250
+damage: 20
+loot(
+	Spooky Scythe
+	Gold*60..100
+	50%
+	Sheldon's Cloak
+)
+
+#5
+name: Drop Midget
+hp: 6
+damage: 50
+loot(
+	Gold*20..40
+)
+
+#6
+name: Lemon Lord
+hp: 30
+damage: 5
+loot(
+	Lemon*5..8
+	Gold*10..11
+)

@@ -1,0 +1,6 @@
+c:\users\draco_000\documents\visual studio 2013\Projects\Text Adventure\Text Adventure\bin\Debug\Text Adventure.exe.config
+c:\users\draco_000\documents\visual studio 2013\Projects\Text Adventure\Text Adventure\bin\Debug\Text Adventure.exe
+c:\users\draco_000\documents\visual studio 2013\Projects\Text Adventure\Text Adventure\bin\Debug\Text Adventure.pdb
+c:\users\draco_000\documents\visual studio 2013\Projects\Text Adventure\Text Adventure\obj\Debug\Text Adventure.exe
+c:\users\draco_000\documents\visual studio 2013\Projects\Text Adventure\Text Adventure\obj\Debug\Text Adventure.pdb
+C:\Users\draco_000\Documents\Visual Studio 2013\Projects\Text Adventure\Text Adventure\obj\Debug\Text Adventure.csprojResolveAssemblyReference.cache

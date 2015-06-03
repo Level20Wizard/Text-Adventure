@@ -1,0 +1,171 @@
+> //Minerals
+
+name: Gold
+basecost: 1
+description: Better than lemons
+stack
+noplural
+usemuch
+pool: currency, gold
+end
+
+name: Gold Bar
+basecost: 10
+description: It's heavy of money
+pool: gold, crafting, smithing, bar
+stack
+end
+
+name: Iron Bar
+basecost: 5
+description: Hard as metal
+stack
+pool: iron, crafting, smithing, bar
+end
+
+name: Iron Ore
+basecost: 3
+description: Ore sweet
+stack
+pool: iron, crafting, smithing, ore
+noplural
+end
+
+name: Steel Bar
+basecost: 9
+description: Don't steel it!
+stack
+pool: steel, crafting, smithing, bar
+end
+
+name: Steel Ore
+basecost: 7
+description: Is it steel, ore is it not?
+stack
+pool: steel, crafting, smithing, ore
+noplural
+end
+
+name: Gold Ore
+basecost: 8
+description: It is the colour of gold
+stack
+pool: gold, crafting, smithing, ore
+noplural
+end
+
+name: Emerald
+basecost: 6
+description: It glints a shiny green sparkle
+pool: gem, crafting
+stack
+end
+
+name: Leather
+basecost: 3
+description: You could make a pants with this
+pool: crafting, smithing
+usemuch
+noplural
+stack
+end
+
+name: Hammer
+basecost: 4
+description: You hit stuff with it to make things
+pool: crafting, smithing, tool
+end
+
+<
+
+> //Weapons
+
+name: Ironic Sword
+basecost: 20
+description: Slayed beasts before it was cool
+equip: onehanded
+pool: weapon, melee, onehanded, sword, iron
+end
+
+name: Spooky Scythe
+basecost: 105
+description: So spooky
+equip: twohanded
+pool: weapon, melee, twohanded, scythe, steel
+end
+
+name: Mall Katana
+basecost: 55
+description: Masterfully folded a total of 3 times
+pool: weapon, twohanded, sword
+end
+
+name: Really Big Sword
+basecost: 400
+description: It's really big
+pool: weapon, twohanded, sword
+end
+
+name: Dagger Scythe
+basecost: 56
+description: Two spooky, steel
+end
+
+name: Golden Axe
+basecost: 100
+description: It's a golden axe!
+pool: weapon, onehanded, gold, axe
+end
+
+<
+
+> //Wearable
+
+name: Sheldon's Cloak
+basecost: 250
+description: Bazinga
+pool: clothes, cloak
+end
+
+name: Iron Helmet
+basecost: 25
+description: Foo ro da
+pool: armour, helmet, iron
+end
+
+<
+
+> //Misc
+
+name: Wolf Eye
+basecost: 2
+description: It spooks
+pool: ingredient
+stack
+end
+
+name: Wolf Hide
+basecost: 3
+description: The skin of your enemies
+pool: crafting
+stack
+end
+
+name: Lemon
+basecost: 1
+description: The next best thing to gold
+messagedestroy: For sure, this lemon will no longer live again
+stack
+pool: ingredient, food
+end
+
+<
+
+
+
+
+
+
+
+
+
